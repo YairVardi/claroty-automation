@@ -1,0 +1,24 @@
+{
+  "safe_search_term": "xDome",
+  "invalid_email": "not-an-email",
+  "expected": {
+    "home_title_keyword": "Claroty",
+    "home_heading": "The AI-Powered Cyber-Physical Systems Protection Platform",
+    "request_demo_heading": "Request a Demo",
+    "careers_heading": "Join Our Team",
+    "required_field_message": "Please complete this required field.",
+    "invalid_email_message": "Email must be formatted correctly."
+  },
+  "important_internal_links": [
+    {"name": "Platform", "path": "/platform"},
+    {"name": "Customers", "path": "/customer-experience"},
+    {"name": "Partners", "path": "/partners"},
+    {"name": "Threat Research", "path": "/team82"},
+    {"name": "Resources", "path": "/resources"},
+    {"name": "Company", "path": "/company"}
+  ],
+  "footer_links": [
+    {"name": "Terms & Conditions", "path": "/terms-conditions"},
+    {"name": "Privacy Policy", "path": "/privacy-policy"}
+  ]
+}
